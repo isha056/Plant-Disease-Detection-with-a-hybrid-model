@@ -40,7 +40,8 @@ After feature extraction, all branches are fused into a single embedding vector 
 🌤️ IoT Integration Example
 
 A real-time field device (e.g., Raspberry Pi or Jetson Nano) can send a request like this:
-<img width="989" height="290" alt="Screenshot 2025-11-12 at 11 13 10 PM" src="https://github.com/user-attachments/assets/49b9846b-4c18-4ec8-bfb4-99c87e121586" />
+<img width="715" height="264" alt="Screenshot 2025-11-12 at 11 18 18 PM" src="https://github.com/user-attachments/assets/a250687c-a298-42ac-bf49-353495e7b097" />
+
 
 The system will process the image + IoT data and return a disease diagnosis, confidence score, and treatment suggestion.
 
