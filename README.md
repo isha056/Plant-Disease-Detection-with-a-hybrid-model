@@ -54,11 +54,9 @@ Trained and validated on the New Plant Diseases Dataset (Augmented)￼
 	•	Covers crops like apple, tomato, corn, grape, potato, cherry, and more
 
 Dataset structure:
-dataset/
- └── New Plant Diseases Dataset(Augmented)/
-      ├── train/
-      ├── valid/
-      └── test/
+
+<img width="969" height="175" alt="Screenshot 2025-11-12 at 11 15 47 PM" src="https://github.com/user-attachments/assets/2faf55b0-1f6f-48ae-a60b-1b07d59ffbb5" />
+
 A smaller dataset_sample/ is included in this repo for quick testing.
 
 ⸻
@@ -102,11 +100,8 @@ By combining deep vision and sensor intelligence, it enables early disease detec
 
 📁 Repository Contents
 
-├── dl-project.ipynb              # Model training and evaluation notebook
-├── dataset_sample/               # Sample subset for testing
-├── models/                       # Trained model weights (optional)
-├── README.md                     # Documentation (this file)
-└── requirements.txt              # Dependencies for setup
+<img width="972" height="174" alt="Screenshot 2025-11-12 at 11 15 34 PM" src="https://github.com/user-attachments/assets/ebd32a14-6ce1-4d18-b7cd-8232779f337e" />
+
 
 🧠 Future Scope
 	•	Integration with Raspberry Pi for real-time monitoring
