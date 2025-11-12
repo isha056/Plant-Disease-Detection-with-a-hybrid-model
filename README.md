@@ -55,7 +55,8 @@ Trained and validated on the New Plant Diseases Dataset (Augmented)￼
 
 Dataset structure:
 
-<img width="969" height="175" alt="Screenshot 2025-11-12 at 11 15 47 PM" src="https://github.com/user-attachments/assets/2faf55b0-1f6f-48ae-a60b-1b07d59ffbb5" />
+<img width="948" height="109" alt="Screenshot 2025-11-12 at 11 16 46 PM" src="https://github.com/user-attachments/assets/34ee7304-46dd-4cbc-8edb-21715538ccab" />
+
 
 A smaller dataset_sample/ is included in this repo for quick testing.
 
@@ -100,7 +101,8 @@ By combining deep vision and sensor intelligence, it enables early disease detec
 
 📁 Repository Contents
 
-<img width="972" height="174" alt="Screenshot 2025-11-12 at 11 15 34 PM" src="https://github.com/user-attachments/assets/ebd32a14-6ce1-4d18-b7cd-8232779f337e" />
+<img width="950" height="102" alt="Screenshot 2025-11-12 at 11 17 11 PM" src="https://github.com/user-attachments/assets/cefda4c5-0fea-4978-99f8-8daa4d6aaf33" />
+
 
 
 🧠 Future Scope
